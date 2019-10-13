@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
+title: Lily's Stories
+description: Personal blog with stuff.
 name: Lily
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
