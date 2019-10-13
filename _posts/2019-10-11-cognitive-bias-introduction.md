@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cognitive Biases : Introduction"
+title: " Cognitive Biases : Introduction"
 date: 2019-10-11
 tags: bias biases
 ---
@@ -24,6 +24,7 @@ The bad news is that it's hard. It is fucking hard. There is even biases known f
 The maybe-good-maybe-bad-depending-whether-you-are-a-good-or-an-evil-person news is that you can take advantage of biases in your daily life.
 
 The first step to conquer biases is to know them and be able to recognize them. So I will be posting more article that will focus on some biases specifically. But before that, a little bit of background.
+____
 
 
 ## Where does biases come from?
@@ -37,10 +38,10 @@ Slow thinking is slow (Definitely serious!) and require focus. It is controlled 
 Being the lazy simians we are, we tend to prefer Fast Thinking, especially if we don't have all the resources for Slow Thinking. The less resources we have, the more we turn to Fast Thinking. And that's where things turn sour. Because the faster we think, the more we fall for biases.
 
 Before going further, let's be clear about a few things : 
-- Fast Thinking doesn't always lead to poor decision.
-- Slow Thinking doesn't always lead to great decision. 
-- There is no clear line between Fast and Slow Thinking. 
-- Slow Thinking can lead to error due to biases too, it is less common because you will tend to be more rational when Slow Thinking, but it can and do happen.
+* Fast Thinking doesn't always lead to poor decision.
+* Slow Thinking doesn't always lead to great decision. 
+* There is no clear line between Fast and Slow Thinking. 
+* Slow Thinking can lead to error due to biases too, it is less common because you will tend to be more rational when Slow Thinking, but it can and do happen.
 
 Now, imagine a mountain. You are at the bottom. You need to go to a specific place. You can take the road. But mountain roads are long and winding. You don't have a car, and you don't have much time to reach the place so you decide to cut through fields. And since it's a mountain you first intuitive thinking is "hey, I don"t know where the place is, but the mountain is 2500 meters height so the place must be 1500 meters maybe. Except the place is 900 meters. 
 I'm a nice person, so here is a drawing:
@@ -59,6 +60,7 @@ Biases are exactly this. Mental mistake that distort our thinking. Adding the mo
 When we are Fast Thinking, we don't stop to question our assumption, we don't pause to check how relevant our informations for the problem are. We take them for granted, and use them to decide. And that is why biases are both so common and so hard to catch. When deciding, we don't and can't stop to see if our decision is rational, we just have to decide. Period.
 
 OK so basically, biases are mental mistakes and we can hardly spot them on the spot. Now what? 
+____
 
 
 ## How to tackle biases?
@@ -94,8 +96,7 @@ Fifth step, read my other articles about biases. I will cover them one bias (or 
 Fifth bis step, research biases on your favorite search engine. There is so much to say about each biases et soooooo many biases, I won't cover everything.
 
 Sixth step, enjoy being a better person than yesterday and share your knowledges.
-
-
+____
 
 ## Why should I get ride of biases?
 
@@ -110,9 +111,7 @@ Some reasons why you might want to fight them are :
 - Biases distort your judgment on people or situation. Which can lead to missed opportunity, interpersonal trouble etc.
 
 - Fighting some biases will definitely make your life better. When I started focusing on attributional biases it was night and day. I became way more relaxed about things that used to enraged me. I'm pretty sure I avoided dying young from a heart attack thanks to that.
-
-  
-
+____
 
 ## Before you go
 
@@ -125,7 +124,7 @@ A few extras before you go :
 - Slow Thinking is mentally exhausting. Don't push too hard. When it's time to stop, it's time to stop.
 
 - Fun fact about biases: Some research show that animals may have biases too. [^2] But it seems that most animal research may not have the process to avoid biases like human research do. [^3] So the question is: Do animal have biases or is it the scientists doing those research? Or both? Science is so funny!
-
+____
 
 
 [^1]: Daniel Kahneman is a psychologist and economist who wrote "Thinking Fast and Slow". He was part of those who uncover the concept of biases. He also won a Nobel Prize in Economic Sciences for his work challenging the idea that human are rational when dealing with money. Post studies show that he was right. Check out more about him and his work, it's definitely worth it.
