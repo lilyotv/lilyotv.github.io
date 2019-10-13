@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: default
 title: "Cognitive Biases : Introduction"
 description: "Introduction to cognitive biases"
 date: 2019-10-11
 tags: bias biases
+is_post: true
 ---
 
 # Cognitive biases
@@ -47,7 +48,7 @@ Before going further, let's be clear about a few things :
 
 Now, imagine a mountain. You are at the bottom. You need to go to a specific place. You can take the road. But mountain roads are long and winding. You don't have a car, and you don't have much time to reach the place so you decide to cut through fields. And since it's a mountain you first intuitive thinking is "hey, I don"t know where the place is, but the mountain is 2500 meters height so the place must be 1500 meters maybe. Except the place is 900 meters. 
 I'm a nice person, so here is a drawing:
-![Image](../_imgs/mountain_bias.jpg?raw=true)
+![Picture to help understanding the example](/assets/imgs/mountain_bias.jpg)
 
 Slow thinking was taking the road. Long, painful, but eventually you would have arrived because you would have checked the road and road sign and took the time to think through the process.
 
