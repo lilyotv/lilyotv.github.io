@@ -1,6 +1,7 @@
 ---
 layout: post
 title: " Cognitive Biases : Introduction"
+description: Introduction to cognitive biases
 date: 2019-10-11
 tags: bias biases
 ---
